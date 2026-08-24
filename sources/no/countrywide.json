@@ -292,6 +292,7 @@
                 },
                 "conform": {
                     "format": "gdb",
+                    "size": "large",
                     "srs": "EPSG:25833",
                     "layer": "Teig",
                     "pid": "teigid"
